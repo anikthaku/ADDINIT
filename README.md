@@ -1,4 +1,4 @@
-## __ADD INITials To code (ADDINIT)__ 
+## __**ADD INIT**ials to code (ADDINIT)__ 
 ---
 
 Got an assignment to write Fibonacci numbers in C/C++. Easy right!
